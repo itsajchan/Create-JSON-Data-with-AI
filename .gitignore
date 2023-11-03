@@ -137,3 +137,5 @@ ui-tests/.yarn/*
 ui-tests/.pnp.*
 
 venv/
+
+.env
